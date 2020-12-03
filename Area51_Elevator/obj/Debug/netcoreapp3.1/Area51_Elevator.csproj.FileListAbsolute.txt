@@ -1,0 +1,13 @@
+G:\Projects\Area51_Elevator\obj\Debug\netcoreapp3.1\Area51_Elevator.csprojAssemblyReference.cache
+G:\Projects\Area51_Elevator\obj\Debug\netcoreapp3.1\Area51_Elevator.AssemblyInfoInputs.cache
+G:\Projects\Area51_Elevator\obj\Debug\netcoreapp3.1\Area51_Elevator.AssemblyInfo.cs
+G:\Projects\Area51_Elevator\obj\Debug\netcoreapp3.1\Area51_Elevator.csproj.CoreCompileInputs.cache
+G:\Projects\Area51_Elevator\bin\Debug\netcoreapp3.1\Area51_Elevator.exe
+G:\Projects\Area51_Elevator\bin\Debug\netcoreapp3.1\Area51_Elevator.deps.json
+G:\Projects\Area51_Elevator\bin\Debug\netcoreapp3.1\Area51_Elevator.runtimeconfig.json
+G:\Projects\Area51_Elevator\bin\Debug\netcoreapp3.1\Area51_Elevator.runtimeconfig.dev.json
+G:\Projects\Area51_Elevator\bin\Debug\netcoreapp3.1\Area51_Elevator.dll
+G:\Projects\Area51_Elevator\bin\Debug\netcoreapp3.1\Area51_Elevator.pdb
+G:\Projects\Area51_Elevator\obj\Debug\netcoreapp3.1\Area51_Elevator.dll
+G:\Projects\Area51_Elevator\obj\Debug\netcoreapp3.1\Area51_Elevator.pdb
+G:\Projects\Area51_Elevator\obj\Debug\netcoreapp3.1\Area51_Elevator.genruntimeconfig.cache
